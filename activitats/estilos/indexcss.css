@@ -32,5 +32,11 @@ ol{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    padding: 14px;
+    padding: 10px;
   }
+  #return{
+    text-align: center;
+  }
+.index{
+    margin-left: 730px;
+}
