@@ -1,5 +1,8 @@
 body {
     background-color: rgb(153, 163, 192);
+    width: 100%;
+    height: 100%;
+    overflow: hidden; position: fixed;
 }
 
 .nombre {
@@ -49,7 +52,7 @@ body {
     padding: center;
     margin-bottom: 50%;
     display: block;
-    margin-left: 720px;
+    margin-left: 740px;
 }
 
 
