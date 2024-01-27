@@ -6,7 +6,8 @@ h1{
     width: 100%;
     display: block;
     text-align: center;
-    padding: 10px;
+    padding:  16px;
+    text-decoration: none;
 }
 
 h2{
@@ -21,7 +22,6 @@ ul{
 ol{
     margin-left: -70px;
 }
-
-.index{
-    margin-left: 730px;
+.index  {
+    margin-left: 730px; 
 }
