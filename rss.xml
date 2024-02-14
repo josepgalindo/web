@@ -1,16 +1,16 @@
 <rss version="2.0">
   <channel>
-    <title>My Example Updates</title>
-    <link>http://example.com/</link>
-    <description>Things that I've recently updated.</description>
+    <title>Arm se dispara hasta un 64% en Bolsa tras elevar sus previsiones por la inteligencia artificial</title>
+    <link>https://elpais.com/economia/2024-02-08/arm-se-dispara-un-26-en-bolsa-tras-elevar-sus-previsiones-por-la-inteligencia-artificial.html</link>
+    <description>El diseñador de microprocesadores se ha revalorizado un 148% desde el precio de salida al mercado de hace cinco meses. </description>
     <item>
-       <title>New Paper Published</title>
-       <link>http://example.com/2002/09/01</link>
-       <description>My paper was published in the Example Journal today.</description>
+       <title>Esade liderará el debate sobre sostenibilidad y tecnología en el 4YFN del Mobile World Congress</title>
+       <link>https://elpais.com/espana/catalunya/2024-02-07/esade-liderara-el-debate-sobre-sostenibilidad-y-tecnologia-en-el-4yfn-del-mobile-world-congress.html</link>
+       <description>Expertos analizarán cómo diseñar y aplicar al sector estrategias efectivas de Inteligencia Artificial.</description>
     </item>
     <item>
-       <title>Research Project Results</title>
-       <link>http://example.com/2002/09/02</link>
+       <title>Un millonario proyecto contra el cáncer familiar quiere sacar a miles de personas del “purgatorio genético”</title>
+       <link>https://elpais.com/salud-y-bienestar/2024-02-04/un-millonario-proyecto-contra-el-cancer-familiar-quiere-sacar-a-miles-de-personas-del-purgatorio-genetico.html</link>
     </item>
   </channel>
 </rss>
