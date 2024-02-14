@@ -1,0 +1,16 @@
+<rss version="2.0">
+  <channel>
+    <title>My Example Updates</title>
+    <link>http://example.com/</link>
+    <description>Things that I've recently updated.</description>
+    <item>
+       <title>New Paper Published</title>
+       <link>http://example.com/2002/09/01</link>
+       <description>My paper was published in the Example Journal today.</description>
+    </item>
+    <item>
+       <title>Research Project Results</title>
+       <link>http://example.com/2002/09/02</link>
+    </item>
+  </channel>
+</rss>
