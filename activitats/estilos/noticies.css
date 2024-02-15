@@ -42,4 +42,10 @@ body {
     height: 100%;
     overflow: hidden; position: fixed;
 }
-
+.imatges{
+    display: flex;
+}
+#colocacio {
+    top: 200px;
+    left: 200px;
+}
